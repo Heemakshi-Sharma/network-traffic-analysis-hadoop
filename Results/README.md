@@ -1,11 +1,12 @@
 # Results
 
-The project successfully identified:
+This folder contains the final analytical findings obtained from the Hadoop-based network traffic analysis project.
 
-- Attack Distribution
-- Protocol Statistics
-- Service-wise Analysis
-- Connection Flag Distribution
+## Contents
+
+- Key Findings
 - Security Recommendations
+- Performance Summary
+- Project Conclusion
 
-The generated reports demonstrate how Hadoop can efficiently process large-scale network traffic logs for security analysis.
+The analytical reports summarize the observations obtained after processing the network traffic dataset using Hadoop MapReduce and Apache Hive.
