@@ -37,3 +37,21 @@ This project demonstrates how Big Data technologies can process large network da
 - Linux Shell
 - Distributed Computing
 - Network Traffic Analysis
+
+## Project Outcomes
+
+The project successfully demonstrated:
+
+- Distributed storage using HDFS
+- Parallel data processing using MapReduce
+- SQL-like analytics using Hive
+- Network traffic pattern identification
+- Detection of malicious network activity
+- Performance of distributed analytics on network log data
+
+## Key Findings
+
+- ICMP-based Smurf attacks represented the largest portion of malicious traffic.
+- TCP-based Neptune attacks were identified as another major threat.
+- Hive queries enabled protocol-wise and service-wise analysis of network events.
+- The project demonstrated how distributed data processing can support network security investigations.
