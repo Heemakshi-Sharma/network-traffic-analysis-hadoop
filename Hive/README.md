@@ -1,10 +1,17 @@
-# Hive
+# Apache Hive
 
-Hive was used for querying processed network traffic logs.
+This folder contains the Hive implementation used in the Network Traffic Analysis project.
 
-The analysis included:
+## Contents
 
-- Attack Distribution
-- Protocol Usage
-- Service Analysis
-- Connection Flag Analysis
+- Hive Implementation
+- Database Creation
+- Table Creation
+- SQL Analysis Queries
+- Workflow Documentation
+
+## Purpose
+
+Apache Hive provides a SQL-like interface for querying the processed network traffic dataset stored in Hadoop.
+
+The analytical queries help identify attack patterns, protocol usage, and other security-related insights from the processed data.
