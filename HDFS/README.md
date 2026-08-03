@@ -1,11 +1,16 @@
-# HDFS
+# Hadoop Distributed File System (HDFS)
 
-This section documents the Hadoop Distributed File System implementation.
+This folder documents the implementation of Hadoop Distributed File System (HDFS) used in the Network Traffic Analysis project.
 
-Topics Covered
+## Contents
 
-- HDFS Directory Creation
-- Data Upload
-- File Verification
 - HDFS Commands
-- Distributed Storage
+- Implementation Steps
+- Workflow
+- Screenshots
+
+## Purpose
+
+The network traffic dataset was uploaded to HDFS to enable distributed storage and processing using Hadoop MapReduce.
+
+HDFS provides scalable and fault-tolerant storage, allowing large datasets to be processed efficiently across a distributed computing environment.
