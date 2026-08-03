@@ -1,11 +1,15 @@
 # MapReduce
 
-This folder contains the MapReduce execution workflow.
+This folder documents the MapReduce implementation used in the Network Traffic Analysis project.
 
-Tasks
+## Contents
 
-- Data Parsing
-- Mapper Execution
-- Reducer Execution
-- Output Generation
-- Result Verification
+- MapReduce Workflow
+- Execution Process
+- Output Description
+
+## Purpose
+
+MapReduce performs distributed processing of the network traffic dataset stored in HDFS.
+
+The processed output generated during this phase is later analyzed using Apache Hive to identify attack patterns and network behavior.
