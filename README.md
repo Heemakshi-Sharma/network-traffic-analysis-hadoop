@@ -56,20 +56,6 @@ The project successfully demonstrated:
 - Hive queries enabled protocol-wise and service-wise analysis of network events.
 - The project demonstrated how distributed data processing can support network security investigations.
 
-## Skills Demonstrated
-
-- Hadoop
-- HDFS
-- Apache Hive
-- MapReduce
-- Linux Administration
-- Distributed Computing
-- Network Traffic Analysis
-- Big Data Processing
-- Cybersecurity Analytics
-- SQL
-- Data Analysis
-
 ## Future Improvements
 
 - Real-time network traffic analysis using Apache Spark
