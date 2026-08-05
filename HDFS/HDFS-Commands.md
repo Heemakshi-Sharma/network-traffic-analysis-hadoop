@@ -2,7 +2,6 @@
 
 This document contains the Hadoop Distributed File System (HDFS) commands used during the implementation of the Network Traffic Analysis project.
 
----
 
 ## Create a Directory in HDFS
 
