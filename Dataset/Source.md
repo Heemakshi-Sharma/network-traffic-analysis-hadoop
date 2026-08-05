@@ -1,5 +1,3 @@
-# Dataset Source
-
 ## Dataset Name
 
 KDD Cup 1999 Network Intrusion Detection Dataset
