@@ -14,7 +14,6 @@ The project uses the KDD Cup 1999 Network Intrusion Detection Dataset downloaded
 
 The dataset contains both normal and malicious network traffic records.
 
----
 
 ### 2. Hadoop Distributed File System (HDFS)
 
@@ -22,7 +21,6 @@ HDFS stores the large dataset across the Hadoop cluster.
 
 It provides scalable and fault-tolerant storage for distributed processing.
 
----
 
 ### 3. MapReduce
 
@@ -30,7 +28,6 @@ MapReduce processes the uploaded dataset.
 
 It performs distributed computation to organize and summarize the network traffic records before analysis.
 
----
 
 ### 4. Apache Hive
 
@@ -38,7 +35,6 @@ Hive provides an SQL-like interface to analyze the processed data.
 
 Several analytical queries are executed to identify attack patterns and protocol usage.
 
----
 
 ### 5. Security Report
 
