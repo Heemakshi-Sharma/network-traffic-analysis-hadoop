@@ -6,7 +6,6 @@ MapReduce is Hadoop's distributed processing framework that enables large datase
 
 In this project, MapReduce was used to process network traffic records stored in HDFS before performing analytical queries using Apache Hive.
 
----
 
 ## Processing Workflow
 
@@ -35,19 +34,16 @@ Processed Output
 Apache Hive Analysis
 ```
 
----
 
 ## Mapper Phase
 
 The Mapper reads the input dataset and converts each network traffic record into intermediate key-value pairs.
 
----
 
 ## Shuffle and Sort
 
 Hadoop groups records having the same key before sending them to Reducers.
 
----
 
 ## Reducer Phase
 
