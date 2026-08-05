@@ -6,7 +6,6 @@ After successful execution of the MapReduce job, the processed network traffic d
 
 This processed data forms the input for Apache Hive.
 
----
 
 ## Output Characteristics
 
@@ -15,7 +14,6 @@ This processed data forms the input for Apache Hive.
 - Optimized for Hive queries
 - Suitable for large-scale network traffic analysis
 
----
 
 ## Verification
 
