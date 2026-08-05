@@ -4,7 +4,6 @@
 
 The objective of the MapReduce phase was to process the network traffic dataset stored in HDFS and generate structured output for analysis.
 
----
 
 ## Execution Steps
 
@@ -12,37 +11,31 @@ The objective of the MapReduce phase was to process the network traffic dataset 
 
 Store the dataset inside HDFS.
 
----
 
 ### Step 2
 
 Compile the MapReduce program.
 
----
 
 ### Step 3
 
 Create the executable JAR file.
 
----
 
 ### Step 4
 
 Execute the MapReduce job.
 
----
 
 ### Step 5
 
 Wait for successful completion.
 
----
 
 ### Step 6
 
 Verify the generated output inside HDFS.
 
----
 
 ## Expected Output
 
